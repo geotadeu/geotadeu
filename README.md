@@ -1,12 +1,23 @@
-### Olá! Eu sou o Geovane 👋
+# Olá, eu sou o Geovane Tadeu 👋  
 
+🚀 Apaixonado por tecnologia  
 
-- 🌱 Estudando Engenharia da Computação e explorando novas linguagens
-- 📫 Contate-me no e-mail: geovanetadeu97@hotmail.com
+## Sobre mim  
+- 💼 Trabalho na área de **projetos, processos e tecnologia**  
+- 📚 Estudante contínuo de **novas tecnologias e ferramentas**  
 
-##  
+## 💡 Conhecimento em  
+- 🐍 **Python** (Análise de dados e modelagem)  
+- 📊 **Excel**  
+- 📈 **Power BI**  
+- 📱 **Power Apps**  
+- 🔄 **Power Automate**  
 
-<div> 
-   <a href="https://www.linkedin.com/in/geovanetadeu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href = "mailto:geovanetadeu97@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-</div> 
+## 🎓 Certificações  
+- 🏦 **CPA-10**  
+- 🏦 **CPA-20**  
+- 🎯 **Lean Six Sigma Yellow Belt**  
+- 🚀 **Scrum**  
+
+## 🌎 Onde me encontrar  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Geovane%20Tadeu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovanetadeu/)  
